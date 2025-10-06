@@ -51,5 +51,5 @@ This repository contains two machine learning projects using **Naive Bayes class
 └── SpamDetector_MultinomialNB/
 ├── README.md # Description for Spam Detector project
 ├── Project 4-(ii).ipynb
-└── spam.csv```
+└── spam.csv
 
