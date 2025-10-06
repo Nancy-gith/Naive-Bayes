@@ -40,16 +40,16 @@ This repository contains two machine learning projects using **Naive Bayes class
 ---
 
 ## Folder Structure
-Naive-Bayes-Project/
-│   README.md
+```Naive-Bayes-Project/
+│ README.md
 │
 ├── Titanic_GaussianNB/
-│     README.md
-│     Project 4-(i).ipynb
-│     Titanic.csv
+│ ├── README.md # Description for Titanic project
+│ ├── Project 4-(i).ipynb
+│ └── Titanic.csv
 │
 └── SpamDetector_MultinomialNB/
-      README.md
-      Project 4-(ii).ipynb
-      spam.csv
+├── README.md # Description for Spam Detector project
+├── Project 4-(ii).ipynb
+└── spam.csv```
 
